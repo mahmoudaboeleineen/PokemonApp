@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="get_fav">Get FAV</string>
+    <string name="to_home">To Home</string>
+    <string name="favourite_list">Favourite List</string>
+    <string name="delete_all">Delete All</string>
+</resources>
